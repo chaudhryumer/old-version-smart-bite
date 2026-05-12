@@ -19,7 +19,7 @@ class _AdminState extends State<Admin> {
       appBar: AppBar(
         title: const Text('Admin Mode'),
         centerTitle: true,
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.cyanAccent,
         elevation: 2, // subtle shadow
       ),
 
