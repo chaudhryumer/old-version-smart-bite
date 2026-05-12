@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951189836596",
+    "project_id": "flutter-fire-umer-v2-30abf",
+    "storage_bucket": "flutter-fire-umer-v2-30abf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951189836596:android:78be71d64a0e76a5d34b61",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPKGf5D98_E_fCNrkkqV2Hkx3NcghCAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951189836596:android:ff4b219054986981d34b61",
+        "android_client_info": {
+          "package_name": "com.example.project1practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPKGf5D98_E_fCNrkkqV2Hkx3NcghCAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
